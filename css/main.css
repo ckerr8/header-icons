@@ -15,7 +15,6 @@ body {
 header {
   background-color: #d05c2e;
   margin: 0;
-
 }
 
 div {
@@ -36,7 +35,7 @@ img {
 }
 
 nav ul {
-    list-style-type: none;
+  list-style-type: none;
   display: flex;
   margin: 0;
   padding: 0;
